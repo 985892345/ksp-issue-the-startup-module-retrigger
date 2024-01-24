@@ -2,6 +2,8 @@
 An issue regarding the re-triggering of KSP compilation for the startup module, 
 but with an empty input file.
 
+[issue](https://github.com/google/ksp/issues/1694)
+
 ## Requirement
 Utilizing KSP to locate the annotation named `TestAnnotation` and 
 generate the class named `StartupKsp` for collecting `KClass`.
